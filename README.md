@@ -28,7 +28,6 @@
     </dd>
 </dl>
 
-Demo? https://kaskita.i-tech.my.id/
+# Demo?
 
-User: admin
-Pass: admin
+https://kaskita.i-tech.my.id/<br>User: admin<br>Pass: admin
