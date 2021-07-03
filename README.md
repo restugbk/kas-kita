@@ -31,3 +31,7 @@
 # Demo?
 
 Link : <a href="https://kaskita.i-tech.my.id/" target="blank">https://kaskita.i-tech.my.id/</a><br>User: admin<br>Pass: admin
+
+# How to install?
+
+Config database berada di <b>"lib/config.php"</b> sesuaikan sendiri :)
