@@ -31,5 +31,4 @@
 Demo? https://kaskita.i-tech.my.id/
 
 User: admin
-
 Pass: admin
