@@ -32,7 +32,7 @@ $self = "pengeluaran";
 			}
 		} else if (isset($_POST['edit'])) {
 			$post_id = dec_id($db->real_escape_string($_POST['id']));
-            $post_nominal = $db->real_escape_string(filter($_POST['nominal']));
+            $post_nominal = str_replace(".", "", $db->real_escape_string(filter($_POST['nominal'])));
             $post_ket = $db->real_escape_string(filter($_POST['ket']));
             $cek_id = mysqli_query($db, "SELECT * FROM data_kas WHERE id = '$post_id'");
 	        $data_id = mysqli_fetch_assoc($cek_id);
