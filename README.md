@@ -1,4 +1,4 @@
-# kas-kita
+# Kas Kita
 
 <dl>
     <dt>Fungsi</dt>
@@ -27,3 +27,9 @@
         </ul>
     </dd>
 </dl>
+
+Demo? https://kaskita.i-tech.my.id/
+
+User: admin
+
+Pass: admin
