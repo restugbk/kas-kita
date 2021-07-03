@@ -31,7 +31,7 @@ require ("../../lib/config.php");
             </div>
             <div class="form-group">
                 <label class="form-control-label">Jumlah</label>
-                <input type="number" class="form-control" value="<?php echo number_format($db_id['nominal'],0,',','.'); ?>" readonly>
+                <input type="text" class="form-control" value="<?php echo number_format($db_id['nominal'],0,',','.'); ?>" readonly>
             </div>
             <div class="form-group">
                 <label class="form-control-label">Tipe</label>
